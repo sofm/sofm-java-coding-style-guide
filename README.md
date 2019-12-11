@@ -1,2 +1,2 @@
 # sofm-java-coding-style-guide
-Hướng dẫn về phong cách viết code Java của Sofm
+Sofm's java coding style guide (H)
